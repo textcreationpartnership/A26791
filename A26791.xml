@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from J.B. alias Oldcutt to his friend Mr. Jenks.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26791</idno>
+            <idno type="STC">Wing B111</idno>
+            <idno type="STC">ESTC R18210</idno>
+            <idno type="EEBO-CITATION">12167541</idno>
+            <idno type="OCLC">ocm 12167541</idno>
+            <idno type="VID">55353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 806:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from J.B. alias Oldcutt to his friend Mr. Jenks.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Signed: J.B. alias Oldcutt.</note>
+                  <note>Caption title.</note>
+                  <note>Dated Sept. 20, 1679, at Chichester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:55353:1" rendition="simple:additions"/>
+            <head>
+               <hi>A LETTER</hi> FROM <hi>J. B.</hi> alias <hi>OLDCUTT,</hi> To his Friend <hi>Mr. JENKS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THo it be long ſince I wrote to you, yet I doubt not but my Name is freſh in your Memory. I was extremely trou<g ref="char:EOLhyphen"/>bled, when I heard of your Diſappointment in the Election of Sheriff, becauſe I know it would have made for our Intereſt. At firſt it did ſomewhat amuſe me, that you ſhould buſle ſo much about an Office, which uſually others have endeavoured to ſhun; but at length I conjectured the Cauſe, and believ'd you were put upon't by ſome of our <hi>Old Friends,</hi> who would have aſſiſted you in the Charge. I am told you have ſome thoughts of Standing for a Member in Parliament this next Election in the City, it would manifeſtly contribute to the Intereſt now driving; but I fear you will receive a Defeat: Take not your Meaſures by my ſucceſs, that having but 60 <hi>
+                  <abbr>l.</abbr> per ann.</hi> except my Wives Eſtate, have carried the Election againſt them of 3000 <hi>
+                  <abbr>l.</abbr> per ann.</hi> thanks to my good Friends of the <hi>Old Cutt:</hi> But all the Coun<g ref="char:EOLhyphen"/>ties in <hi>England</hi> are not like <hi>Suſſex.</hi> Our Friend Mr. <hi>Trenchard,</hi> I hear hath loſt it at <hi>Taunton;</hi> ſome Men cannot cajole their Party ſo well as others. I know very well the heat of your Temper, and inaptitude of your Mind, for the Management of any thing beyond your common Commerce; How do you think the City can judge that Man mode<g ref="char:EOLhyphen"/>rate and wiſe, who hurries himſelf into a Priſon, for no other cauſe, but the overboyling of his Spirit? The ſtrength of the Paſſion always betrays the Weakneſs of the Paſſionate; that thing that you would moſt wiſh for, you ſhould ſeem moſt to decline, it was <hi>O. C.</hi> his
+<pb n="2" facs="tcp:55353:2" rendition="simple:additions"/>
+Maxim. I find the People generally too apprehenſive of the Miſeries that accrued to them by the late Civil Wars, to run into the like Deſolation; nor can I wonder at it, when I conſider, that there is not one ſcarce to be found, that rais'd himſelf a Monument of Ho<g ref="char:EOLhyphen"/>nour or Wealth, by thoſe unnatural Broils; but on the contrary, they who were moſt active therein, are long ſince ſwallowed up in Obloquy, and their Poſterities ſtigmatiz'd with Poverty and Infamy, which I look upon as a juſt Judgment upon them, for making the Holy Letter of Life and Peace, the moſt forceable Inſtruments of Mortal Quarrel and Contention, who dealt with Scripture, as <hi>Chymiſts</hi> deal with Natural Bodies, ſtrive to Extract that out of them, which God nor Nature never put into them. Wonder not, that I vary from my former Stile of writing to you; for really, mature thoughts of things hath opened my Eyes, and I am become a Con<g ref="char:EOLhyphen"/>vert <hi>Chriſtian,</hi> that is to ſay, an honeſt Man; and an honeſt Moral Man is a <hi>Chriſtian</hi> by the ſurer ſide. I muſt confeſs to you, I am againſt deſiring to mend what is already well.</p>
+            <p>As for the Government, I ſee no cauſe of Complaint, unleſs there be a Latitude of too much Liberty, which I am ſorry to ſee men make no better uſe of than Children do, abuſe it, and Worm-like, eat out the heart of the Plant that breeds it.</p>
+            <p>Men of craz'd Minds, that they have ſcarce an equality of ſence with Beaſts, are grown ſo skittiſh with this thing, call'd <hi>Liberty,</hi> that they are almoſt ready to fly in the Face of Majeſty, and would ſawce<g ref="char:EOLhyphen"/>ly require Reaſons for all outward Occurrents of State, which their uncautelous Capacities can no more keep pace with, than a Child can with <hi>Hercules.</hi> I pray God, our Poſterities may not be plagu'd with the want of that Plenty and Liberty, the abundance of which their Fathers have ſo wantonly abus'd.</p>
+            <p>How many are there that calumniate the Perſon, when they can<g ref="char:EOLhyphen"/>not reach the Cauſe; and no kind of reaſon ſo much abuſes, as when the Diſcredit of the Perſon is Retorted on the Cauſe.</p>
+            <p>A Railer is rank'd by St. <hi>Paul</hi> with a Fornicator and a Thief, and with ſuch, ſaith he, partake not, no not ſo much as to eat; and cer<g ref="char:EOLhyphen"/>tainly Railers againſt Government, are the worſt ſort of all, and for ought I know, thoſe that he 'ſpecially means.</p>
+            <p>I fear, thoſe you call good Common-Wealths-Men, are a different kind of thing to honeſt Men.</p>
+            <p>
+               <hi>Fabritius,</hi> in the <hi>Roman</hi> Story, is much commended for nominating to the Conſulſhip <hi>Ruffinus,</hi> a Factious Man, and his utter Enemy, be<g ref="char:EOLhyphen"/>cauſe he knew him to be ſerviceable to the Common-Wealth; per<g ref="char:EOLhyphen"/>haps thoſe that oppoſed your Election, were not well read in Hiſtory.</p>
+            <p>It is not a ſeeming Sanctity, that makes the Honeſt Man; the cheat of pretending to Goſpel Light, hath been detected long ſince; you may remember, that the precepts of ſubmitting to Rules, rather
+<pb n="3" facs="tcp:55353:2"/>
+than call the Magiſtrate to Revenge; of ſuffering wrong, rather than doing; of yielding the Coat to him that would take the Cloak; of readineſs to receive more wrongs, rather than to Revenge one. Theſe and all the Evangelical Commands of the like nature, have we heretofore found out, favourable Interpretations, Gloſſes and Evaſions to wind our ſelves out of, and yet paſs for moſt zealous Chriſtians.</p>
+            <p>When we Receded from the Church of <hi>Rome,</hi> one Motive was, becauſe ſhe added unto Scripture her Gloſſes as Canonical, to ſupply what the plain Text of Scripture could not yield, and that I have often though was a Fault among us, the <hi>quondam</hi> pretenders to Re<g ref="char:EOLhyphen"/>formation; we pull'd down <hi>Baal,</hi> and ſet up an <hi>Ephod,</hi> to meet the Church of <hi>Rome</hi> in the ſame point we left her.</p>
+            <p>Excuſe me, if I am plain with you; I intend you not the leaſt diſ<g ref="char:EOLhyphen"/>quiet, only an honeſt reprehenſion.</p>
+            <p>I know you are a pious Man; Religion uſually takes up his Winter Quarters in Age, and therefore I doubt not, but you will be the rea<g ref="char:EOLhyphen"/>dier to forgive me.</p>
+            <p>The laſt Week was tranſmitted hither in Print the ſubſtance of a Speech made by that Worthy Knight (as the Printer ſtiles him) Sir <hi>T. P.</hi> I perceive by it, that his main drift is to Irritate the People againſt his R. H. in point of Religion; and truly I thought, when ſo bold a <hi>Lutheran,</hi> had ſet up a Top, all the whole City would have whipt it; but I ſince underſtand, it was a Game the Wiſer heads diſ<g ref="char:EOLhyphen"/>lik'd, and that he hath promiſed to make no more Speeches again in haſt. I remember I have heretofore read a Book, written by a Jeſuit in King <hi>James</hi>'s time, who aſſerted it meritorious, to oppoſe that Kings Right to the Crown, becauſe he was a <hi>Proteſtant:</hi> And we in this age aſſert it Meritorious to oppoſe the Succeſſion of his R. H. becauſe (as is preſum'd only) a R. C. <hi>Currat Lex,</hi> is the Property of every Subject, God forbid it ſhould be denyed our Prince.</p>
+            <p>Sir, I muſt tell you, that it is to be fear'd, they that Propogate this Cavil, before it comes to be a Queſtion, and poſſibly never may be one, have ſomething under their Thumbs, that I can gueſs at as well as they; the Serpent cannot Lurk ſo cloſe, but it will be ſeen. I wiſh from my Soul that there is not more thoughts of blood among ſome that would ſeem to defend us againſt it, than in the Enemies of our Church. I am jealous of it for this cauſe; I find the great Stick<g ref="char:EOLhyphen"/>lers againſt his R. H. are moſt of them of our Family or Relation, the <hi>Old-Cutts</hi> of 41.</p>
+            <p>Once ſet aſide the immediate Heir, and then it will naturally come in queſtion, who ſhall ſucceed; and excellent work for Commotion.</p>
+            <p>Come Sir, let me adviſe you, look into your heart betimes, have a care of being Popular at a deer price; feed not, to Danger, tho it be on a Diſh you love.</p>
+            <p>
+               <pb n="4" facs="tcp:55353:3"/>The <hi>Heathens</hi> were ſo exceeding cautious in this point, that it is ſaid the <hi>Manichees</hi> were of opinion, it was not lawful to violate any thing in which there was Life, and therefore would not ſo much as pull a Branch from a Tree, becauſe there was Life in it.</p>
+            <p>And <hi>Xenophon</hi> tells us, that the Souldiers in <hi>Cyrus</hi> his Army were ſo well Diſciplin'd, that one of them in time of Battle, having lift up his Arm to ſtrike his Enemy, hearing the Trumpet at that Moment ſound a Retreat, let fall his Arm, and willingly loſt his blow. So far were theſe men from thinking it lawful to ſhed blood in time of Peace, that they would not ſhed the blood of an Enemy in time of War, except in a juſt and lawful Battle. For ſhame let us not learn Morals from Heathens. But what have I done! I am run out of a Letter into a Hiſtory. The deſire I have, that all the Nation ſhould be as honeſt as my ſelf, true Lovers of the Eſtabliſhed Church and Government, promoters of Peace and Concord, abhorrers of cauſe<g ref="char:EOLhyphen"/>leſs Jealouſies and Fears, and of all ſuch as are given to Change, moderate Rectifiers of Enormities, where any ſuch are juſtly met with, and Retrievers of Time, rather than openers of Breaches, which Wiſdom and Righteouſneſs ſhould cloſe, hath made me more prolix than I intended.</p>
+            <p>But I ſhall conclude with this Wiſh, That God in his due time would haſten you and all yours to the Poſſeſſion of that Glory Sir <hi>T. P.</hi> ſeems ſo well aſſur'd of, in which I am ſure I am</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend and Well-wiſher,</hi> J. B. <hi>alias</hi> Old-cutt.</signed>
+               <dateline>
+                  <hi>Chicheſter,</hi>
+                  <date>
+                     <hi>Sept.</hi> 20. 1679.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
